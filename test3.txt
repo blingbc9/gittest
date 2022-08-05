@@ -1,3 +1,9 @@
-test3
-깃베시에서 수정!!!깃베시  gitbash
-깃허브에서 수정!!
+git commend language
+
+pull commit push 테스트
+git pull origin master
+git commit -a -m "메세지 작성"
+git push origin master
+
+
+
